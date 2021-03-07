@@ -1,0 +1,23 @@
+body{
+  background-color:#eaf6f6;
+}
+hr{
+  border-style: none;
+  border-top-color: grey;
+  border-top-width:5px;
+  border-top-style: dotted;
+  width: 5%;
+}
+h3{
+  color: #66BFBF;
+  letter-spacing: 2px;
+}
+h1{
+color: #66BFBF;
+letter-spacing: 3px;
+}
+table{
+  padding: 20px;
+  text-align: left;
+  border-spacing: 10px;
+}
